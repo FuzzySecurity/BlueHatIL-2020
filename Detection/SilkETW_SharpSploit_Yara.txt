@@ -1,0 +1,1 @@
+SilkETW.exe -t user -pn Microsoft-Windows-DotNETRuntime -uk 0x2038 -l verbose -ot file -p C:\Some\Output\File\Path.json -y C:\Some\Yara\Rule\Folder -yo matches
